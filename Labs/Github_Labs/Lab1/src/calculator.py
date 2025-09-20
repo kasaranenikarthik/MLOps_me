@@ -1,3 +1,7 @@
+'''
+This module is a simple calculator with four functions.
+Each function takes two arguments and performs a basic arithmetic operation.
+'''
 
 def check_type(x, y):
     if not isinstance(x, (int, float)) or not isinstance(y, (int, float)):

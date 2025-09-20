@@ -1,3 +1,5 @@
+''' Unit tests for calculator functions using unittest framework. '''
+
 import sys
 import os
 import unittest

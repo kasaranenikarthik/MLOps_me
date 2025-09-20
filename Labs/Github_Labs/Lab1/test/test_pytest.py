@@ -1,3 +1,5 @@
+''' Unit tests for calculator functions using pytest framework. '''
+
 import pytest
 from src.calculator import fun1, fun2, fun3, fun4, check_type
 
