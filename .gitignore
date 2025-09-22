@@ -208,3 +208,5 @@ __marimo__/
 
 #local venv
 Labs/Github_Labs/Lab1/lab_01
+Labs/API_Labs/FastAPI_Labs/lab_fastapi
+cmd_to_run_venv.ps1
