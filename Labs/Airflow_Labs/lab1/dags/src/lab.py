@@ -25,7 +25,7 @@ def load_data():
     with open(file_path, "wb") as f:
         pickle.dump(df, f)
 
-    return file_path  # <- This is XCom-safe (a string)
+    return file_path  #This is XCom-safe (a string)
 
 def data_preprocessing(file_path):
     """
@@ -45,7 +45,7 @@ def data_preprocessing(file_path):
     with open(processed_path, "wb") as f:
         pickle.dump(transformed, f)
 
-    return processed_path  # <- XCom-safe
+    return processed_path  #XCom-safe
 
 def build_save_model(processed_data_path, filename):
     """
@@ -71,7 +71,7 @@ def build_save_model(processed_data_path, filename):
     with open(model_path, "wb") as f:
         pickle.dump(kmeans, f)
 
-    return sse  # ✅ XCom-safe (list of floats)
+    return sse  #XCom-safe (list of floats)
 
 def load_model_elbow(filename, sse):
     """
@@ -91,4 +91,4 @@ def load_model_elbow(filename, sse):
 
     prediction = model.predict(test_df)
 
-    return int(prediction[0])  # ✅ JSON-safe (int)
+    return int(prediction[0])  #JSON-safe (int)
