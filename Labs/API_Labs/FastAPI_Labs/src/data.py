@@ -1,17 +1,17 @@
 import numpy as np
-from sklearn.datasets import load_iris
+from sklearn.datasets import load_diabetes
 from sklearn.model_selection import train_test_split
 
 def load_data():
     """
-    Load the Iris dataset and return the features and target values.
+    Load the Diabetes dataset and return the features and target values.
     Returns:
-        X (numpy.ndarray): The features of the Iris dataset.
-        y (numpy.ndarray): The target values of the Iris dataset.
+        X (numpy.ndarray): The features of the Diabetes dataset.
+        y (numpy.ndarray): The target values of the Diabetes dataset.
     """
-    iris = load_iris()
-    X = iris.data
-    y = iris.target
+    diabetes = load_diabetes()
+    X = diabetes.data
+    y = diabetes.target
     return X, y
 
 def split_data(X, y):
