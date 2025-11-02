@@ -1,0 +1,765 @@
+[2025-10-28T12:54:29.044+0000] {processor.py:161} INFO - Started process (PID=229) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T12:54:29.046+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T12:54:29.049+0000] {logging_mixin.py:188} INFO - [2025-10-28T12:54:29.049+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T12:54:29.234+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T12:54:29.256+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.221 seconds
+[2025-10-28T12:55:02.510+0000] {processor.py:161} INFO - Started process (PID=286) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T12:55:02.512+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T12:55:02.514+0000] {logging_mixin.py:188} INFO - [2025-10-28T12:55:02.513+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T12:55:02.648+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T12:55:02.662+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.160 seconds
+[2025-10-28T12:55:36.917+0000] {processor.py:161} INFO - Started process (PID=344) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T12:55:36.918+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T12:55:36.919+0000] {logging_mixin.py:188} INFO - [2025-10-28T12:55:36.919+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T12:55:37.041+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T12:55:37.055+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.144 seconds
+[2025-10-28T12:56:10.539+0000] {processor.py:161} INFO - Started process (PID=402) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T12:56:10.542+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T12:56:10.544+0000] {logging_mixin.py:188} INFO - [2025-10-28T12:56:10.544+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T12:56:10.782+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T12:56:10.814+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.285 seconds
+[2025-10-28T12:56:48.481+0000] {processor.py:161} INFO - Started process (PID=460) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T12:56:48.482+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T12:56:48.484+0000] {logging_mixin.py:188} INFO - [2025-10-28T12:56:48.484+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T12:56:48.642+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T12:56:48.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.181 seconds
+[2025-10-28T12:57:37.362+0000] {processor.py:161} INFO - Started process (PID=539) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T12:57:37.364+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T12:57:37.366+0000] {logging_mixin.py:188} INFO - [2025-10-28T12:57:37.365+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T12:57:37.613+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T12:57:37.655+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.302 seconds
+[2025-10-28T12:58:20.932+0000] {processor.py:161} INFO - Started process (PID=605) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T12:58:20.936+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T12:58:20.940+0000] {logging_mixin.py:188} INFO - [2025-10-28T12:58:20.940+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T12:58:22.092+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T12:58:22.136+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 1.216 seconds
+[2025-10-28T12:58:58.763+0000] {processor.py:161} INFO - Started process (PID=664) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T12:58:58.765+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T12:58:58.769+0000] {logging_mixin.py:188} INFO - [2025-10-28T12:58:58.768+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T12:58:59.332+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T12:58:59.361+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.611 seconds
+[2025-10-28T12:59:34.118+0000] {processor.py:161} INFO - Started process (PID=728) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T12:59:34.119+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T12:59:34.121+0000] {logging_mixin.py:188} INFO - [2025-10-28T12:59:34.121+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T12:59:34.314+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T12:59:34.355+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.244 seconds
+[2025-10-28T13:00:08.258+0000] {processor.py:161} INFO - Started process (PID=779) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:00:08.260+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:00:08.262+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:00:08.262+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:00:08.417+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:00:08.436+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.189 seconds
+[2025-10-28T13:00:39.852+0000] {processor.py:161} INFO - Started process (PID=827) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:00:39.854+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:00:39.856+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:00:39.856+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:00:40.279+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:00:40.307+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.461 seconds
+[2025-10-28T13:01:11.586+0000] {processor.py:161} INFO - Started process (PID=875) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:01:11.588+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:01:11.590+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:01:11.590+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:01:11.780+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:01:11.802+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.224 seconds
+[2025-10-28T13:01:42.302+0000] {processor.py:161} INFO - Started process (PID=921) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:01:42.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:01:42.306+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:01:42.305+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:01:42.458+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:01:42.475+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.179 seconds
+[2025-10-28T13:02:12.518+0000] {processor.py:161} INFO - Started process (PID=978) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:02:12.519+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:02:12.521+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:02:12.521+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:02:12.638+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:02:12.651+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.138 seconds
+[2025-10-28T13:02:42.964+0000] {processor.py:161} INFO - Started process (PID=1036) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:02:42.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:02:42.966+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:02:42.966+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:02:43.080+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:02:43.094+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.136 seconds
+[2025-10-28T13:03:13.678+0000] {processor.py:161} INFO - Started process (PID=1094) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:03:13.680+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:03:13.681+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:03:13.681+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:03:13.850+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:03:13.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.194 seconds
+[2025-10-28T13:03:44.048+0000] {processor.py:161} INFO - Started process (PID=1152) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:03:44.050+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:03:44.051+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:03:44.051+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:03:44.217+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:03:44.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.192 seconds
+[2025-10-28T13:04:14.818+0000] {processor.py:161} INFO - Started process (PID=1210) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:04:14.819+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:04:14.821+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:04:14.821+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:04:14.960+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:04:14.974+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.162 seconds
+[2025-10-28T13:04:46.182+0000] {processor.py:161} INFO - Started process (PID=1260) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:04:46.183+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:04:46.185+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:04:46.185+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:04:46.324+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:04:46.341+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.165 seconds
+[2025-10-28T13:05:18.995+0000] {processor.py:161} INFO - Started process (PID=1316) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:05:18.996+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:05:18.998+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:05:18.998+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:05:19.127+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:05:19.142+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.152 seconds
+[2025-10-28T13:05:51.306+0000] {processor.py:161} INFO - Started process (PID=1356) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:05:51.307+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:05:51.309+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:05:51.308+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:05:51.431+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:05:51.445+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.145 seconds
+[2025-10-28T13:06:23.969+0000] {processor.py:161} INFO - Started process (PID=1405) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:06:23.970+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:06:23.972+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:06:23.971+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:06:24.120+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:06:24.134+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.171 seconds
+[2025-10-28T13:06:54.228+0000] {processor.py:161} INFO - Started process (PID=1451) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:06:54.229+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:06:54.230+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:06:54.230+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:06:54.480+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:06:54.492+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.271 seconds
+[2025-10-28T13:07:25.396+0000] {processor.py:161} INFO - Started process (PID=1508) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:07:25.397+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:07:25.399+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:07:25.399+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:07:25.654+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:07:25.665+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.274 seconds
+[2025-10-28T13:07:55.996+0000] {processor.py:161} INFO - Started process (PID=1566) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:07:55.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:07:56.000+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:07:56.000+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:07:56.225+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:07:56.237+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.249 seconds
+[2025-10-28T13:08:26.425+0000] {processor.py:161} INFO - Started process (PID=1624) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:08:26.427+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:08:26.430+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:08:26.430+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:08:26.741+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:08:26.756+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.339 seconds
+[2025-10-28T13:08:57.327+0000] {processor.py:161} INFO - Started process (PID=1682) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:08:57.328+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:08:57.330+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:08:57.329+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:08:57.471+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:08:57.485+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.165 seconds
+[2025-10-28T13:09:27.767+0000] {processor.py:161} INFO - Started process (PID=1740) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:09:27.768+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:09:27.771+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:09:27.770+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:09:27.923+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:09:27.938+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.179 seconds
+[2025-10-28T13:09:58.613+0000] {processor.py:161} INFO - Started process (PID=1798) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:09:58.614+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:09:58.616+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:09:58.616+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:09:58.806+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:09:58.824+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.217 seconds
+[2025-10-28T13:10:29.850+0000] {processor.py:161} INFO - Started process (PID=1856) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:10:29.850+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:10:29.852+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:10:29.852+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:10:29.983+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:10:29.997+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.153 seconds
+[2025-10-28T13:11:01.024+0000] {processor.py:161} INFO - Started process (PID=1914) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:11:01.025+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:11:01.027+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:11:01.026+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:11:01.160+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:11:01.175+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.157 seconds
+[2025-10-28T13:11:31.610+0000] {processor.py:161} INFO - Started process (PID=1954) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:11:31.611+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:11:31.613+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:11:31.613+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:11:31.738+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:11:31.751+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.146 seconds
+[2025-10-28T13:12:04.126+0000] {processor.py:161} INFO - Started process (PID=2009) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:12:04.128+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:12:04.131+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:12:04.130+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:12:04.344+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:12:04.359+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.239 seconds
+[2025-10-28T13:12:35.354+0000] {processor.py:161} INFO - Started process (PID=2056) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:12:35.355+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:12:35.358+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:12:35.357+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:12:35.502+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:12:35.518+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.172 seconds
+[2025-10-28T13:13:05.745+0000] {processor.py:161} INFO - Started process (PID=2112) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:13:05.746+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:13:05.749+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:13:05.748+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:13:05.928+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:13:05.950+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.213 seconds
+[2025-10-28T13:13:36.149+0000] {processor.py:161} INFO - Started process (PID=2160) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:13:36.150+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:13:36.151+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:13:36.151+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:13:36.282+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:13:36.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.151 seconds
+[2025-10-28T13:14:06.745+0000] {processor.py:161} INFO - Started process (PID=2218) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:14:06.746+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:14:06.749+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:14:06.749+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:14:06.877+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:14:06.889+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.153 seconds
+[2025-10-28T13:14:37.687+0000] {processor.py:161} INFO - Started process (PID=2276) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:14:37.689+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:14:37.692+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:14:37.691+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:14:37.912+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:14:37.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.257 seconds
+[2025-10-28T13:15:08.171+0000] {processor.py:161} INFO - Started process (PID=2334) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:15:08.172+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:15:08.174+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:15:08.174+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:15:08.399+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:15:08.411+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.244 seconds
+[2025-10-28T13:15:39.110+0000] {processor.py:161} INFO - Started process (PID=2392) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:15:39.113+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:15:39.120+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:15:39.119+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:15:39.468+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:15:39.484+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.381 seconds
+[2025-10-28T13:16:09.838+0000] {processor.py:161} INFO - Started process (PID=2450) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:16:09.839+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:16:09.840+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:16:09.840+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:16:10.054+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:16:10.064+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.232 seconds
+[2025-10-28T13:16:41.618+0000] {processor.py:161} INFO - Started process (PID=2508) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:16:41.620+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:16:41.621+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:16:41.621+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:16:41.771+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:16:41.789+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.176 seconds
+[2025-10-28T13:17:12.075+0000] {processor.py:161} INFO - Started process (PID=2547) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:17:12.076+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:17:12.079+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:17:12.078+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:17:12.220+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:17:12.235+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.168 seconds
+[2025-10-28T13:17:43.134+0000] {processor.py:161} INFO - Started process (PID=2597) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:17:43.136+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:17:43.139+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:17:43.138+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:17:43.374+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:17:43.394+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.269 seconds
+[2025-10-28T13:18:13.492+0000] {processor.py:161} INFO - Started process (PID=2652) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:18:13.494+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:18:13.496+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:18:13.495+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:18:13.662+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:18:13.678+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.193 seconds
+[2025-10-28T13:18:45.254+0000] {processor.py:161} INFO - Started process (PID=2703) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:18:45.268+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:18:45.270+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:18:45.270+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:18:45.433+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:18:45.464+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.217 seconds
+[2025-10-28T13:19:15.640+0000] {processor.py:161} INFO - Started process (PID=2749) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:19:15.641+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:19:15.643+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:19:15.642+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:19:15.783+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:19:15.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.163 seconds
+[2025-10-28T13:19:46.363+0000] {processor.py:161} INFO - Started process (PID=2806) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:19:46.365+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:19:46.367+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:19:46.367+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:19:46.515+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:19:46.529+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.174 seconds
+[2025-10-28T13:20:16.918+0000] {processor.py:161} INFO - Started process (PID=2864) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:20:16.919+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:20:16.921+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:20:16.920+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:20:17.055+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:20:17.068+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.156 seconds
+[2025-10-28T13:20:47.133+0000] {processor.py:161} INFO - Started process (PID=2922) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:20:47.134+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:20:47.136+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:20:47.136+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:20:47.252+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:20:47.265+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.137 seconds
+[2025-10-28T13:21:17.593+0000] {processor.py:161} INFO - Started process (PID=2980) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:21:17.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:21:17.596+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:21:17.595+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:21:17.717+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:21:17.730+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.143 seconds
+[2025-10-28T13:21:48.276+0000] {processor.py:161} INFO - Started process (PID=3038) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:21:48.277+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:21:48.278+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:21:48.278+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:21:48.392+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:21:48.406+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.136 seconds
+[2025-10-28T13:22:18.774+0000] {processor.py:161} INFO - Started process (PID=3096) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:22:18.775+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:22:18.777+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:22:18.777+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:22:18.912+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:22:18.924+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.156 seconds
+[2025-10-28T13:22:49.409+0000] {processor.py:161} INFO - Started process (PID=3146) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:22:49.410+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:22:49.412+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:22:49.411+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:22:49.650+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:22:49.664+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.260 seconds
+[2025-10-28T13:23:19.857+0000] {processor.py:161} INFO - Started process (PID=3202) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:23:19.858+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:23:19.860+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:23:19.860+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:23:20.073+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:23:20.083+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.231 seconds
+[2025-10-28T13:23:53.827+0000] {processor.py:161} INFO - Started process (PID=3260) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:23:53.829+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:23:53.833+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:23:53.833+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:23:54.007+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:23:54.022+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.207 seconds
+[2025-10-28T13:24:27.657+0000] {processor.py:161} INFO - Started process (PID=3318) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:24:27.659+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:24:27.661+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:24:27.661+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:24:27.804+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:24:27.820+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.172 seconds
+[2025-10-28T13:24:59.020+0000] {processor.py:161} INFO - Started process (PID=3358) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:24:59.022+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:24:59.024+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:24:59.023+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:24:59.182+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:24:59.195+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.183 seconds
+[2025-10-28T13:25:31.273+0000] {processor.py:161} INFO - Started process (PID=3407) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:25:31.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:25:31.278+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:25:31.277+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:25:31.453+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:25:31.470+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.205 seconds
+[2025-10-28T13:26:02.054+0000] {processor.py:161} INFO - Started process (PID=3453) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:26:02.055+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:26:02.057+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:26:02.056+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:26:02.204+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:26:02.220+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.172 seconds
+[2025-10-28T13:26:32.728+0000] {processor.py:161} INFO - Started process (PID=3510) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:26:32.729+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:26:32.730+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:26:32.730+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:26:32.860+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:26:32.875+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.153 seconds
+[2025-10-28T13:27:02.926+0000] {processor.py:161} INFO - Started process (PID=3568) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:27:02.927+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:27:02.930+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:27:02.929+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:27:03.074+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:27:03.086+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.167 seconds
+[2025-10-28T13:27:34.012+0000] {processor.py:161} INFO - Started process (PID=3632) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:27:34.013+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:27:34.015+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:27:34.014+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:27:34.140+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:27:34.153+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.146 seconds
+[2025-10-28T13:28:04.872+0000] {processor.py:161} INFO - Started process (PID=3690) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:28:04.873+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:28:04.874+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:28:04.874+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:28:05.005+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:28:05.017+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.151 seconds
+[2025-10-28T13:28:35.157+0000] {processor.py:161} INFO - Started process (PID=3748) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:28:35.159+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:28:35.160+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:28:35.160+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:28:35.283+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:28:35.296+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.145 seconds
+[2025-10-28T13:29:05.546+0000] {processor.py:161} INFO - Started process (PID=3806) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:29:05.547+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:29:05.549+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:29:05.549+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:29:05.673+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:29:05.691+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.151 seconds
+[2025-10-28T13:29:36.086+0000] {processor.py:161} INFO - Started process (PID=3857) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:29:36.087+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:29:36.089+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:29:36.089+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:29:36.215+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:29:36.230+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.150 seconds
+[2025-10-28T13:30:06.546+0000] {processor.py:161} INFO - Started process (PID=3912) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:30:06.547+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:30:06.548+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:30:06.548+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:30:06.665+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:30:06.679+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.139 seconds
+[2025-10-28T13:30:36.750+0000] {processor.py:161} INFO - Started process (PID=3962) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:30:36.751+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:30:36.754+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:30:36.753+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:30:36.883+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:30:36.896+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.154 seconds
+[2025-10-28T13:31:08.270+0000] {processor.py:161} INFO - Started process (PID=4010) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:31:08.272+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:31:08.274+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:31:08.273+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:31:08.515+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:31:08.525+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.265 seconds
+[2025-10-28T13:31:40.084+0000] {processor.py:161} INFO - Started process (PID=4058) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:31:40.085+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:31:40.087+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:31:40.086+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:31:40.354+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:31:40.369+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.291 seconds
+[2025-10-28T13:32:10.490+0000] {processor.py:161} INFO - Started process (PID=4105) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:32:10.491+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:32:10.493+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:32:10.493+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:32:10.802+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:32:10.815+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.334 seconds
+[2025-10-28T13:32:41.094+0000] {processor.py:161} INFO - Started process (PID=4162) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:32:41.095+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:32:41.097+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:32:41.097+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:32:41.252+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:32:41.268+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.182 seconds
+[2025-10-28T13:33:11.499+0000] {processor.py:161} INFO - Started process (PID=4220) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:33:11.500+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:33:11.502+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:33:11.501+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:33:11.611+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:33:11.623+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.130 seconds
+[2025-10-28T13:33:42.106+0000] {processor.py:161} INFO - Started process (PID=4278) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:33:42.107+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:33:42.109+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:33:42.109+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:33:42.244+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:33:42.258+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.157 seconds
+[2025-10-28T13:34:12.861+0000] {processor.py:161} INFO - Started process (PID=4336) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:34:12.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:34:12.866+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:34:12.865+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:34:13.147+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:34:13.190+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.344 seconds
+[2025-10-28T13:34:43.416+0000] {processor.py:161} INFO - Started process (PID=4393) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:34:43.417+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:34:43.419+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:34:43.418+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:34:43.542+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:34:43.559+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.150 seconds
+[2025-10-28T13:35:14.173+0000] {processor.py:161} INFO - Started process (PID=4443) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:35:14.175+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:35:14.177+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:35:14.177+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:35:14.334+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:35:14.350+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.188 seconds
+[2025-10-28T13:35:46.790+0000] {processor.py:161} INFO - Started process (PID=4499) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:35:46.792+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:35:46.794+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:35:46.794+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:35:47.090+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:35:47.117+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.338 seconds
+[2025-10-28T13:36:17.502+0000] {processor.py:161} INFO - Started process (PID=4538) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:36:17.504+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:36:17.510+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:36:17.508+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:36:17.673+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:36:17.689+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.195 seconds
+[2025-10-28T13:36:47.860+0000] {processor.py:161} INFO - Started process (PID=4595) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:36:47.861+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:36:47.863+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:36:47.863+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:36:48.013+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:36:48.029+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.175 seconds
+[2025-10-28T13:37:20.844+0000] {processor.py:161} INFO - Started process (PID=4653) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:37:20.845+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:37:20.847+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:37:20.847+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:37:20.993+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:37:21.010+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.177 seconds
+[2025-10-28T13:37:51.602+0000] {processor.py:161} INFO - Started process (PID=4692) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:37:51.603+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:37:51.606+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:37:51.606+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:37:51.735+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:37:51.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.153 seconds
+[2025-10-28T13:38:22.414+0000] {processor.py:161} INFO - Started process (PID=4749) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:38:22.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:38:22.417+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:38:22.417+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:38:22.535+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:38:22.550+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.142 seconds
+[2025-10-28T13:38:52.657+0000] {processor.py:161} INFO - Started process (PID=4807) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:38:52.659+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:38:52.661+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:38:52.661+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:38:52.806+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:38:52.827+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.178 seconds
+[2025-10-28T13:42:03.507+0000] {processor.py:161} INFO - Started process (PID=126) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:42:03.508+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:42:03.510+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:42:03.510+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:42:03.636+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:42:03.650+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.148 seconds
+[2025-10-28T13:42:36.925+0000] {processor.py:161} INFO - Started process (PID=182) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:42:36.926+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:42:36.929+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:42:36.928+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:42:37.058+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:42:37.073+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.154 seconds
+[2025-10-28T13:43:10.105+0000] {processor.py:161} INFO - Started process (PID=240) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:43:10.107+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:43:10.112+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:43:10.111+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:43:10.280+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:43:10.295+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.201 seconds
+[2025-10-28T13:43:41.537+0000] {processor.py:161} INFO - Started process (PID=281) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:43:41.539+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:43:41.541+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:43:41.540+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:43:41.664+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:43:41.677+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.145 seconds
+[2025-10-28T13:44:13.249+0000] {processor.py:161} INFO - Started process (PID=328) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:44:13.250+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:44:13.252+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:44:13.252+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:44:13.380+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:44:13.394+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.150 seconds
+[2025-10-28T13:44:44.196+0000] {processor.py:161} INFO - Started process (PID=376) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:44:44.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:44:44.199+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:44:44.199+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:44:44.319+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:44:44.332+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.143 seconds
+[2025-10-28T13:45:14.844+0000] {processor.py:161} INFO - Started process (PID=432) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:45:14.845+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:45:14.847+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:45:14.846+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:45:14.963+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:45:14.975+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.136 seconds
+[2025-10-28T13:45:45.441+0000] {processor.py:161} INFO - Started process (PID=490) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:45:45.442+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:45:45.443+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:45:45.443+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:45:45.628+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:45:45.638+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.202 seconds
+[2025-10-28T13:46:16.592+0000] {processor.py:161} INFO - Started process (PID=554) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:46:16.593+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:46:16.595+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:46:16.594+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:46:16.798+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:46:16.808+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.221 seconds
+[2025-10-28T13:46:46.996+0000] {processor.py:161} INFO - Started process (PID=612) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:46:46.997+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:46:46.999+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:46:46.999+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:46:47.223+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:46:47.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.243 seconds
+[2025-10-28T13:47:17.541+0000] {processor.py:161} INFO - Started process (PID=671) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:47:17.542+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:47:17.543+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:47:17.543+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:47:17.748+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:47:17.759+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.224 seconds
+[2025-10-28T13:47:48.172+0000] {processor.py:161} INFO - Started process (PID=729) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:47:48.173+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:47:48.175+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:47:48.174+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:47:48.302+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:47:48.315+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.149 seconds
+[2025-10-28T13:48:24.560+0000] {processor.py:161} INFO - Started process (PID=787) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:48:24.561+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:48:24.564+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:48:24.564+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:48:24.811+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:48:24.835+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.285 seconds
+[2025-10-28T13:48:55.265+0000] {processor.py:161} INFO - Started process (PID=827) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:48:55.266+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:48:55.269+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:48:55.268+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:48:55.438+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:48:55.459+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.203 seconds
+[2025-10-28T13:49:26.205+0000] {processor.py:161} INFO - Started process (PID=875) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:49:26.206+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:49:26.208+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:49:26.208+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:49:26.344+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:49:26.360+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.164 seconds
+[2025-10-28T13:49:56.863+0000] {processor.py:161} INFO - Started process (PID=923) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:49:56.865+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:49:56.867+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:49:56.866+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:49:56.999+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:49:57.016+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.160 seconds
+[2025-10-28T13:50:27.579+0000] {processor.py:161} INFO - Started process (PID=979) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:50:27.580+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:50:27.582+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:50:27.582+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:50:27.723+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:50:27.741+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.168 seconds
+[2025-10-28T13:50:57.826+0000] {processor.py:161} INFO - Started process (PID=1027) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:50:57.827+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:50:57.829+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:50:57.829+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:50:57.958+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:50:57.973+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.153 seconds
+[2025-10-28T13:51:28.170+0000] {processor.py:161} INFO - Started process (PID=1085) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:51:28.171+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:51:28.172+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:51:28.172+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:51:28.328+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:51:28.346+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.181 seconds
+[2025-10-28T13:51:58.928+0000] {processor.py:161} INFO - Started process (PID=1143) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:51:58.929+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:51:58.931+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:51:58.930+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:51:59.054+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:51:59.067+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.145 seconds
+[2025-10-28T13:52:29.176+0000] {processor.py:161} INFO - Started process (PID=1202) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:52:29.178+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:52:29.181+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:52:29.181+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:52:29.316+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:52:29.329+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.160 seconds
+[2025-10-28T13:52:59.690+0000] {processor.py:161} INFO - Started process (PID=1260) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:52:59.691+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:52:59.693+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:52:59.693+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:52:59.819+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:52:59.831+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.147 seconds
+[2025-10-28T13:53:30.105+0000] {processor.py:161} INFO - Started process (PID=1318) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:53:30.106+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:53:30.109+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:53:30.108+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:53:30.223+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:53:30.235+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.137 seconds
+[2025-10-28T13:54:02.686+0000] {processor.py:161} INFO - Started process (PID=1376) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:54:02.687+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:54:02.689+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:54:02.688+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:54:02.808+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:54:02.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.142 seconds
+[2025-10-28T13:54:33.792+0000] {processor.py:161} INFO - Started process (PID=1416) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:54:33.793+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:54:33.795+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:54:33.795+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:54:34.025+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:54:34.036+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.250 seconds
+[2025-10-28T13:55:11.157+0000] {processor.py:161} INFO - Started process (PID=1472) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:55:11.159+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:55:11.163+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:55:11.162+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:55:11.545+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:55:11.561+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.412 seconds
+[2025-10-28T13:55:44.776+0000] {processor.py:161} INFO - Started process (PID=1530) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:55:44.777+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:55:44.779+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:55:44.779+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:55:44.912+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:55:44.928+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.158 seconds
+[2025-10-28T13:56:18.648+0000] {processor.py:161} INFO - Started process (PID=1594) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:56:18.650+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:56:18.652+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:56:18.651+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:56:18.786+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:56:18.802+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.159 seconds
+[2025-10-28T13:56:53.716+0000] {processor.py:161} INFO - Started process (PID=1652) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:56:53.717+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:56:53.718+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:56:53.718+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:56:53.837+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:56:53.850+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.140 seconds
+[2025-10-28T13:57:26.434+0000] {processor.py:161} INFO - Started process (PID=1703) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:57:26.436+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:57:26.438+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:57:26.438+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:57:26.617+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:57:26.640+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.215 seconds
+[2025-10-28T13:57:57.017+0000] {processor.py:161} INFO - Started process (PID=1749) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:57:57.018+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:57:57.022+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:57:57.020+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:57:57.285+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:57:57.309+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.318 seconds
+[2025-10-28T13:58:28.108+0000] {processor.py:161} INFO - Started process (PID=1816) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:58:28.109+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:58:28.111+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:58:28.110+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:58:28.237+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:58:28.250+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.148 seconds
+[2025-10-28T13:58:58.676+0000] {processor.py:161} INFO - Started process (PID=1874) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:58:58.677+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:58:58.679+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:58:58.678+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:58:58.816+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:58:58.830+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.161 seconds
+[2025-10-28T13:59:28.918+0000] {processor.py:161} INFO - Started process (PID=1932) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:59:28.920+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:59:28.922+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:59:28.922+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:59:29.051+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:59:29.066+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.155 seconds
+[2025-10-28T13:59:59.297+0000] {processor.py:161} INFO - Started process (PID=1981) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T13:59:59.298+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T13:59:59.300+0000] {logging_mixin.py:188} INFO - [2025-10-28T13:59:59.300+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T13:59:59.493+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T13:59:59.508+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.216 seconds
+[2025-10-28T14:00:29.846+0000] {processor.py:161} INFO - Started process (PID=2038) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:00:29.847+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:00:29.848+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:00:29.848+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:00:29.956+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:00:29.968+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.128 seconds
+[2025-10-28T14:01:00.649+0000] {processor.py:161} INFO - Started process (PID=2088) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:01:00.650+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:01:00.652+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:01:00.652+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:01:00.832+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:01:00.856+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.215 seconds
+[2025-10-28T14:01:31.011+0000] {processor.py:161} INFO - Started process (PID=2144) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:01:31.012+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:01:31.017+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:01:31.016+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:01:31.300+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:01:31.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.317 seconds
+[2025-10-28T14:02:02.192+0000] {processor.py:161} INFO - Started process (PID=2202) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:02:02.193+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:02:02.195+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:02:02.195+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:02:02.436+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:02:02.449+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.262 seconds
+[2025-10-28T14:02:33.990+0000] {processor.py:161} INFO - Started process (PID=2260) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:02:33.991+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:02:33.993+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:02:33.993+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:02:34.281+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:02:34.295+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.312 seconds
+[2025-10-28T14:03:04.427+0000] {processor.py:161} INFO - Started process (PID=2299) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:03:04.428+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:03:04.430+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:03:04.429+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:03:04.545+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:03:04.558+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.136 seconds
+[2025-10-28T14:03:35.347+0000] {processor.py:161} INFO - Started process (PID=2357) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:03:35.348+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:03:35.350+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:03:35.350+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:03:35.476+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:03:35.488+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.148 seconds
+[2025-10-28T14:04:06.046+0000] {processor.py:161} INFO - Started process (PID=2408) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:04:06.047+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:04:06.050+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:04:06.049+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:04:06.222+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:04:06.245+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.206 seconds
+[2025-10-28T14:04:36.290+0000] {processor.py:161} INFO - Started process (PID=2463) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:04:36.291+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:04:36.292+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:04:36.292+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:04:36.416+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:04:36.431+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.147 seconds
+[2025-10-28T14:05:07.379+0000] {processor.py:161} INFO - Started process (PID=2522) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:05:07.380+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:05:07.381+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:05:07.381+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:05:07.487+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:05:07.504+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.131 seconds
+[2025-10-28T14:05:38.033+0000] {processor.py:161} INFO - Started process (PID=2580) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:05:38.035+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:05:38.038+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:05:38.038+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:05:38.264+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:05:38.285+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.266 seconds
+[2025-10-28T14:06:08.442+0000] {processor.py:161} INFO - Started process (PID=2628) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:06:08.443+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:06:08.445+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:06:08.445+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:06:08.585+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:06:08.599+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.164 seconds
+[2025-10-28T14:06:38.647+0000] {processor.py:161} INFO - Started process (PID=2686) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:06:38.647+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:06:38.649+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:06:38.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:06:38.765+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:06:38.777+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.135 seconds
+[2025-10-28T14:07:09.001+0000] {processor.py:161} INFO - Started process (PID=2744) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:07:09.002+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:07:09.004+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:07:09.004+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:07:09.128+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:07:09.141+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.146 seconds
+[2025-10-28T14:07:39.354+0000] {processor.py:161} INFO - Started process (PID=2784) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:07:39.356+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:07:39.357+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:07:39.357+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:07:39.487+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:07:39.500+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.151 seconds
+[2025-10-28T14:08:10.043+0000] {processor.py:161} INFO - Started process (PID=2833) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:08:10.044+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:08:10.046+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:08:10.046+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:08:10.240+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:08:10.259+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.223 seconds
+[2025-10-28T14:08:40.347+0000] {processor.py:161} INFO - Started process (PID=2881) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:08:40.351+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:08:40.358+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:08:40.357+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:08:40.707+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:08:40.743+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.415 seconds
+[2025-10-28T14:09:11.068+0000] {processor.py:161} INFO - Started process (PID=2936) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:09:11.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:09:11.071+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:09:11.071+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:09:11.195+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:09:11.208+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.147 seconds
+[2025-10-28T14:09:41.379+0000] {processor.py:161} INFO - Started process (PID=2994) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:09:41.384+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:09:41.388+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:09:41.387+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:09:41.566+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:09:41.582+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.215 seconds
+[2025-10-28T14:10:11.625+0000] {processor.py:161} INFO - Started process (PID=3052) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:10:11.626+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:10:11.629+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:10:11.628+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:10:11.844+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:10:11.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.252 seconds
+[2025-10-28T14:10:42.010+0000] {processor.py:161} INFO - Started process (PID=3101) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:10:42.012+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:10:42.014+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:10:42.013+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:10:42.220+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:10:42.244+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.244 seconds
+[2025-10-28T14:11:12.690+0000] {processor.py:161} INFO - Started process (PID=3158) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:11:12.691+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:11:12.693+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:11:12.693+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:11:12.995+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:11:13.009+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.330 seconds
+[2025-10-28T14:11:43.095+0000] {processor.py:161} INFO - Started process (PID=3208) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:11:43.096+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:11:43.099+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:11:43.098+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:11:43.400+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:11:43.413+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.324 seconds
+[2025-10-28T14:12:14.266+0000] {processor.py:161} INFO - Started process (PID=3264) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:12:14.267+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:12:14.269+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:12:14.269+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:12:14.490+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:12:14.502+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.242 seconds
+[2025-10-28T14:12:44.657+0000] {processor.py:161} INFO - Started process (PID=3322) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:12:44.658+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:12:44.660+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:12:44.659+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:12:44.861+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:12:44.871+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.219 seconds
+[2025-10-28T14:13:15.233+0000] {processor.py:161} INFO - Started process (PID=3373) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:13:15.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:13:15.237+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:13:15.236+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:13:15.394+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:13:15.414+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.190 seconds
+[2025-10-28T14:13:45.530+0000] {processor.py:161} INFO - Started process (PID=3421) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:13:45.531+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:13:45.533+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:13:45.532+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:13:45.674+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:13:45.692+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.169 seconds
+[2025-10-28T14:14:16.155+0000] {processor.py:161} INFO - Started process (PID=3468) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:14:16.156+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:14:16.159+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:14:16.158+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:14:16.337+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:14:16.357+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.211 seconds
+[2025-10-28T14:14:46.547+0000] {processor.py:161} INFO - Started process (PID=3524) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:14:46.549+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:14:46.556+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:14:46.556+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:14:46.743+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:14:46.757+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.242 seconds
+[2025-10-28T14:15:16.927+0000] {processor.py:161} INFO - Started process (PID=3582) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:15:16.928+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:15:16.930+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:15:16.929+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:15:17.068+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:15:17.083+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.163 seconds
+[2025-10-28T14:15:47.283+0000] {processor.py:161} INFO - Started process (PID=3640) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:15:47.284+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:15:47.286+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:15:47.286+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:15:47.443+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:15:47.463+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.188 seconds
+[2025-10-28T14:16:17.581+0000] {processor.py:161} INFO - Started process (PID=3688) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:16:17.598+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:16:17.601+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:16:17.601+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:16:17.790+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:16:17.808+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.239 seconds
+[2025-10-28T14:16:48.126+0000] {processor.py:161} INFO - Started process (PID=3738) to work on /opt/airflow/dags/news_api.py
+[2025-10-28T14:16:48.127+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/news_api.py for tasks to queue
+[2025-10-28T14:16:48.131+0000] {logging_mixin.py:188} INFO - [2025-10-28T14:16:48.129+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/news_api.py
+[2025-10-28T14:16:48.334+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/news_api.py
+[2025-10-28T14:16:48.367+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/news_api.py took 0.248 seconds
