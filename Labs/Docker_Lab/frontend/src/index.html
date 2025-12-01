@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task Manager</title>
+    <style>
+        body { font-family: system-ui; max-width: 600px; margin: 50px auto; padding: 20px; }
+        .task { padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 4px; }
+        .pending { border-left: 4px solid orange; }
+        .processing { border-left: 4px solid blue; }
+        .completed { border-left: 4px solid green; }
+        input { padding: 10px; width: 70%; }
+        button { padding: 10px 20px; cursor: pointer; }
+        #timer { margin-top: 20px; font-size: 18px; font-weight: bold; color: #444; }
+    </style>
+</head>
+<body>
+    <h1>Task Manager</h1>
+
+    <div>
+        <input type="text" id="taskInput" placeholder="New task...">
+        <button onclick="addTask()">Add</button>
+    </div>
+
+    <div id="timer">Next refresh in: 6s</div>
+    <div id="tasks"></div>
+
+    <script>
+        let countdown = 6;
+
+        function updateTimer() {
+            document.getElementById('timer').textContent = `Next refresh in: ${countdown}s`;
+            countdown--;
+
+            if (countdown < 0) {
+                countdown = 6;   // reset
+                loadTasks();     // trigger refresh
+            }
+        }
+
+        async function loadTasks() {
+            const res = await fetch('/api/tasks');
+            const data = await res.json();
+
+            document.getElementById('tasks').innerHTML = data.tasks
+                .map(t => `<div class="task ${t.status}">${t.title} - ${t.status}</div>`)
+                .join('');
+
+            countdown = 6; // reset countdown after each refresh
+        }
+
+        async function addTask() {
+            const input = document.getElementById('taskInput');
+            const reply = await fetch('/api/tasks', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ title: input.value })
+            });
+            if (reply.ok) {
+                alert(response.message);
+            } else {
+                alert(`Error: ${response.error}`);
+            }
+            input.value = '';
+            loadTasks();  // immediate refresh after adding
+        }
+
+        // Initial load
+        loadTasks();
+
+        // Update timer every second
+        setInterval(updateTimer, 1000);
+    </script>
+</body>
+</html>
